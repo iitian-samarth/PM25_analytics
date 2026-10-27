@@ -1,6 +1,6 @@
 # PM25_analytics
 AirCast is a machine learning project for PM2.5 air pollution prediction using multi-station air quality and meteorological data. It explores data analysis, feature engineering, regression models, time-series validation, and model evaluation to understand pollution patterns and improve predictive performance.
-# 🌫️ AirCast: Predicting Urban Air Quality Using Machine Learning
+# AirCast: Predicting Urban Air Quality Using Machine Learning
 
 AirCast is a machine learning project focused on predicting **PM2.5 concentrations** using historical air-quality and meteorological data. The project explores pollution patterns, develops regression models, and evaluates their ability to predict particulate matter concentrations across multiple monitoring stations.
 
